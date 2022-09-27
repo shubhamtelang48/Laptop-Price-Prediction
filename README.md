@@ -7,8 +7,8 @@ We will make a project for Laptop price prediction. The problem statement is tha
 # Basic Understanding of Laptop Price Prediction Data
 
 The first step is to import the libraries and load data. After that we will take a basic understanding of data like its shape, sample, is there are any NULL values present in the dataset. Understanding the data is an important step for prediction or any machine learning project.
-After the loading of data we have do following steps
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Machine learning Modeling
+- After the loading of data we have do following steps
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine learning Modeling
